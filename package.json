@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      "gulp-ids-deps@*",
+      "/Users/qubaoming/Documents/Kuaidi/work/nsky-bao"
+    ],
+    [
+      "gulp-ids-deps@*",
+      "/Users/qubaoming/Documents/kuaidi/work/nsky"
+    ]
+  ],
+  "_from": "gulp-ids-deps@*",
+  "_id": "gulp-ids-deps@2.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-ids-deps",
+  "_nodeVersion": "5.2.0",
+  "_npmUser": {
+    "email": "675861708@qq.com",
+    "name": "freestyle21"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gulp-ids-deps",
+    "raw": "gulp-ids-deps@*",
+    "rawSpec": "*",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_shrinkwrap": null,
+  "_spec": "gulp-ids-deps@*",
+  "_where": "/Users/qubaoming/Documents/Kuaidi/work/nsky-bao",
+  "author": {
+    "email": "675861708@qq.com",
+    "name": "freestyle21",
+    "url": "freestyle21.cn"
+  },
+  "dependencies": {
+    "async": "~0.9.0",
+    "colors": "^1.1.2",
+    "escodegen": "~1.6.1",
+    "esprima": "~2.2.0",
+    "event-stream": "~3.0.2",
+    "graceful-fs": "*",
+    "uglify-js": "^2.6.1"
+  },
+  "description": "plugin of gulp to add seajs modules ids and deps auto",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "eda5924b97fc08fd37a52c326c9a52a79f26f33e",
+    "tarball": "http://registry.npmjs.org/gulp-ids-deps/-/gulp-ids-deps-2.0.1.tgz"
+  },
+  "homepage": "https://github.com/freestyle21/gulp-ids-deps.git",
+  "keywords": [
+    "combo",
+    "gulp",
+    "gulp",
+    "plugin",
+    "seajs"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "freestyle21",
+      "email": "675861708@qq.com"
+    }
+  ],
+  "name": "gulp-ids-deps",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.2.3"
+}
